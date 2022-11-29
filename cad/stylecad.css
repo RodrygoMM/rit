@@ -1,0 +1,110 @@
+@charset "UTF-8";
+
+
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+  background-color:#b3dbfe;
+  
+
+
+}
+
+ html{  
+  height:70%;
+  width: 90vw;
+  background-color:#b3dbfe;
+
+
+ }
+
+
+
+ .cadastro{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: size 1.3em;  
+    padding: 10px;
+    font-style: italic;
+    border-radius:25;
+    position:absolute;
+    height:auto;
+    width:auto; 
+    left: 5%;
+    top:5%;
+    
+    }
+
+    button{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;         
+        padding: 5px;
+        border-radius:25px;
+        background-color: rgb(65, 237, 65);
+        position:absolute;
+        height:auto;
+        width:100px;
+        font: size 1.3em;
+        left:70%;
+        top:50%;                
+        }
+
+
+
+
+
+
+    p{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font: size 1.3em;  
+        padding:6px;
+        font-style: italic;
+        border: 3px solid rgb(0, 0, 0);
+        border-radius:34px;
+        height:auto;
+        width:auto;
+
+    }
+    input{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font: size 1.3em;  
+        padding:6px;
+        font-style: italic;
+        border: 0px solid rgb(0, 0, 0);
+        border-radius:34px;
+        height:auto;
+        width:65vw;
+
+    }
+
+    .pl{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font: size 1.3em;  
+        padding:6px;
+        font-style: italic;
+        border: 0px solid rgb(0, 0, 0);
+        border-radius:34px;
+        height:auto;
+        width:25vw;
+
+    }
+
+    p.cad{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font: size 1.3em;        
+        padding:6px;
+        font-style: italic;
+        border: 3px solid rgb(0, 0, 0);
+        border-radius:34px;
+        height:auto;
+        width:50vw;    
+    }
+
+ img{
+border-radius:50px;
+height:auto;
+width:100%;
+position:fixed;
+top:103vw;
+
+
+ }
